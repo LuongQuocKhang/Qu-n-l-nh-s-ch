@@ -1,0 +1,131 @@
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbprojResolveAssemblyReference.cache
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Resources.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbproj.GenerateResource.Cache
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe.config
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.pdb
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.xml
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.dll
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.pdb
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.xml
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.exe
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.xml
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.pdb
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.dll
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.dll
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.pdb
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.xml
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.pdb
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.xml
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuNhapSach.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Main.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuThuTien.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmTraCuuSach.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmQuiDinh.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmHoaDonBanSach.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmLapBaoCao.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoTon.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoCongNo.resources
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\FormatChecking.dll
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Geocoding.dll
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Newtonsoft.Json.dll
+E:\project\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\libphonenumber.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe.config
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.exe
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\FormatChecking.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Geocoding.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\libphonenumber.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmHoaDonBanSach.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmLapBaoCao.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuNhapSach.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuThuTien.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmTraCuuSach.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoCongNo.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoTon.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Main.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Resources.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmQuiDinh.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\MetroFramework.Design.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\MetroFramework.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\MetroFramework.Fonts.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe.config
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.pdb
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.xml
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\FormatChecking.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Geocoding.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Newtonsoft.Json.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\libphonenumber.dll
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.pdb
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.xml
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.pdb
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.xml
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.pdb
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.xml
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbprojResolveAssemblyReference.cache
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmHoaDonBanSach.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmLapBaoCao.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuNhapSach.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuThuTien.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmTraCuuSach.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoCongNo.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoTon.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Main.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Resources.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmQuiDinh.resources
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbproj.GenerateResource.Cache
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.exe
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.xml
+E:\project\New folder\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe.config
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.exe
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DoAn_NMCNPM.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\FormatChecking.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Geocoding.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\Newtonsoft.Json.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\libphonenumber.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\BUS.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DAL.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\bin\Debug\DTO.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbprojResolveAssemblyReference.cache
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmHoaDonBanSach.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmLapBaoCao.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuNhapSach.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmPhieuThuTien.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmTraCuuSach.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoCongNo.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmBaoCaoTon.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Main.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.Resources.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.fmQuiDinh.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\QuanlyNhaSach.vbproj.GenerateResource.Cache
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.exe
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\DoAn_NMCNPM\obj\Debug\DoAn_NMCNPM.pdb

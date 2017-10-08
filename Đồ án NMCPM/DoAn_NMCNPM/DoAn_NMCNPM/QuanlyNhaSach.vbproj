@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6DD3F37-06AB-4E21-B3BA-44EF0A3391CD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>DoAn_NMCNPM.My.MyApplication</StartupObject>
+    <RootNamespace>DoAn_NMCNPM</RootNamespace>
+    <AssemblyName>DoAn_NMCNPM</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>DoAn_NMCNPM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>DoAn_NMCNPM.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FormatChecking">
+      <HintPath>..\packages\FormatChecking.dll</HintPath>
+    </Reference>
+    <Reference Include="Geocoding">
+      <HintPath>..\packages\Geocoding.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>D:\TÀI LIỆU HỌC TẬP\NHẬP MÔN CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN CNPM\Đồ Án_NMCNPM\MetroUILib\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>D:\TÀI LIỆU HỌC TẬP\NHẬP MÔN CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN CNPM\Đồ Án_NMCNPM\MetroUILib\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>D:\TÀI LIỆU HỌC TẬP\NHẬP MÔN CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN CNPM\Đồ Án_NMCNPM\MetroUILib\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Hệ thống giao diện\fmHoaDonBanSach.Designer.vb">
+      <DependentUpon>fmHoaDonBanSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmHoaDonBanSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\Giao diện báo cáo\fmLapBaoCao.Designer.vb">
+      <DependentUpon>fmLapBaoCao.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\Giao diện báo cáo\fmLapBaoCao.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmPhieuNhapSach.Designer.vb">
+      <DependentUpon>fmPhieuNhapSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmPhieuNhapSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmPhieuThuTien.Designer.vb">
+      <DependentUpon>fmPhieuThuTien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmPhieuThuTien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmTraCuuSach.Designer.vb">
+      <DependentUpon>fmTraCuuSach.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmTraCuuSach.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\Giao diện báo cáo\fmBaoCaoCongNo.Designer.vb">
+      <DependentUpon>fmBaoCaoCongNo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\Giao diện báo cáo\fmBaoCaoCongNo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\Giao diện báo cáo\fmBaoCaoTon.Designer.vb">
+      <DependentUpon>fmBaoCaoTon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\Giao diện báo cáo\fmBaoCaoTon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xử lý\GridToExcel.vb" />
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmQuiDinh.Designer.vb">
+      <DependentUpon>fmQuiDinh.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Hệ thống giao diện\fmQuiDinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="xử lý\PrimaryKey.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Hệ thống giao diện\fmHoaDonBanSach.resx">
+      <DependentUpon>fmHoaDonBanSach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\Giao diện báo cáo\fmLapBaoCao.resx">
+      <DependentUpon>fmLapBaoCao.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\fmPhieuNhapSach.resx">
+      <DependentUpon>fmPhieuNhapSach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\fmPhieuThuTien.resx">
+      <DependentUpon>fmPhieuThuTien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\fmTraCuuSach.resx">
+      <DependentUpon>fmTraCuuSach.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\Giao diện báo cáo\fmBaoCaoCongNo.resx">
+      <DependentUpon>fmBaoCaoCongNo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\Giao diện báo cáo\fmBaoCaoTon.resx">
+      <DependentUpon>fmBaoCaoTon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hệ thống giao diện\fmQuiDinh.resx">
+      <DependentUpon>fmQuiDinh.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.vbproj">
+      <Project>{58cb5980-bbd0-45ae-9271-ed3fc7763479}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.vbproj">
+      <Project>{66D4E124-33BE-4370-A9BC-FF7844FE5C6A}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

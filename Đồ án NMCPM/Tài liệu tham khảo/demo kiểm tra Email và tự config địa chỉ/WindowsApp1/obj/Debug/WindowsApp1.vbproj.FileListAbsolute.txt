@@ -1,0 +1,28 @@
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\FormatChecking.dll
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\Geocoding.dll
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\libphonenumber.dll
+E:\project\WindowsApp1\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.WindowsApp1.exe.config
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\project\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\bin\Debug\WindowsApp1.exe
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\bin\Debug\WindowsApp1.pdb
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\bin\Debug\WindowsApp1.xml
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\bin\Debug\Newtonsoft.Json.dll
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.exe
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.xml
+E:\project\demo kiểm tra Email và tự config địa chỉ\WindowsApp1\obj\Debug\WindowsApp1.pdb

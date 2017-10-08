@@ -1,0 +1,60 @@
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\BUS.dll
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\BUS.pdb
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\BUS.xml
+E:\project\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+E:\project\DoAn_NMCNPM\BUS\obj\Debug\BUS.Resources.resources
+E:\project\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+E:\project\DoAn_NMCNPM\BUS\obj\Debug\BUS.dll
+E:\project\DoAn_NMCNPM\BUS\obj\Debug\BUS.xml
+E:\project\DoAn_NMCNPM\BUS\obj\Debug\BUS.pdb
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\DAL.dll
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\DTO.dll
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\DAL.pdb
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\DAL.xml
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\DTO.pdb
+E:\project\DoAn_NMCNPM\BUS\bin\Debug\DTO.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\BUS.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\BUS.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\BUS.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\DAL.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\bin\Debug\DTO.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\obj\Debug\BUS.Resources.resources
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\obj\Debug\BUS.dll
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\obj\Debug\BUS.xml
+C:\Users\DELL\Desktop\DoAn_NMCNPM (1)\DoAn_NMCNPM\BUS\obj\Debug\BUS.pdb
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\BUS.dll
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\BUS.pdb
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\BUS.xml
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\DAL.dll
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\DTO.dll
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\DAL.pdb
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\DAL.xml
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\DTO.pdb
+E:\project\New folder\DoAn_NMCNPM\BUS\bin\Debug\DTO.xml
+E:\project\New folder\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+E:\project\New folder\DoAn_NMCNPM\BUS\obj\Debug\BUS.Resources.resources
+E:\project\New folder\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+E:\project\New folder\DoAn_NMCNPM\BUS\obj\Debug\BUS.dll
+E:\project\New folder\DoAn_NMCNPM\BUS\obj\Debug\BUS.xml
+E:\project\New folder\DoAn_NMCNPM\BUS\obj\Debug\BUS.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\BUS.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\BUS.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\BUS.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\DAL.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\DTO.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\DAL.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\DAL.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\DTO.pdb
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\bin\Debug\DTO.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbprojResolveAssemblyReference.cache
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\obj\Debug\BUS.Resources.resources
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\obj\Debug\BUS.vbproj.GenerateResource.Cache
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\obj\Debug\BUS.dll
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\obj\Debug\BUS.xml
+E:\project\Đồ án NMCPM\DoAn_NMCNPM\BUS\obj\Debug\BUS.pdb
